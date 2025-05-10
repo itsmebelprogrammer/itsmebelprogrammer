@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2012<br>📚 Atualmente aprendendo: Automação com Python<br>🎯 Meta: desenvolver cada vez mais projetos em Python e aprimorar minhas habilidades como desenvolvedora<br>🎲 Curiosidade: consigo transformar um simples script em algo divertido (ou um pequeno caos!)</p>
+<p align="left">✨ Criando bugs desde 2012<br>📚 Atualmente aprendendo: Automação com Python<br>🎯 Meta: desenvolver projetos robustos para melhorar meu conhecimento e aumentar minhas skills<br>🎲 Curiosidade: consigo transformar um simples script em algo divertido (ou um pequeno caos!)</p>
 
 ###
 
