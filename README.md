@@ -42,7 +42,6 @@ PostgreSQL · SQLAlchemy · EF Core · Redis · Celery · Docker
 
 ## GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=itsmebelprogrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebelprogrammer&layout=compact&theme=tokyonight&langs_count=6&hide=tcl,less)
 
 ---
